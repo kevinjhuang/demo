@@ -1,6 +1,5 @@
 #Demo PROJECT README
 
-change
-This is a simple readme file
+test change made in github
 
 new text
